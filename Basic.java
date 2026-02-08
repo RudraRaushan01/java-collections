@@ -1,7 +1,7 @@
 import java.util.*;
 class Basic{
     public static void main(String args[]){
-        ArrayList al=new ArrayList();
+        ArrayList al=new ArrayList<>();
         al.add(34);
         al.add(65);
         al.add(87);
