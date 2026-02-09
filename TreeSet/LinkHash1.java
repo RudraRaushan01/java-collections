@@ -1,4 +1,4 @@
-package Treeset;
+package TreeSet;
 import java.util.*;
 public class LinkHash1 {
     public static void main(String[] args) {
